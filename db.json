@@ -1,0 +1,18 @@
+{
+    "properties": [
+        {
+            "id": 1,
+            "img": "./imgs/properties/1.jpeg",
+            "title": "103/143 West Street, Crows Nest",
+            "postedBy": "X Builder",
+            "price": 405.5454
+        },
+        {
+            "id": 2,
+            "img": "./imgs/properties/1.jpeg",
+            "title": "103/143 West Street, Crows Nest",
+            "postedBy": "North Builder",
+            "price": 405.5454
+        }
+    ]
+}
